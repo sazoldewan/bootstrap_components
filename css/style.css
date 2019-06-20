@@ -1,0 +1,9 @@
+.alert-dark-custom{
+	color: #fff;
+    background-color: blue;
+    border-color: #c6c8ca;
+}
+.margin-bottom h1{
+	margin-bottom: 30px;
+	text-align: center;
+}
